@@ -56,5 +56,5 @@
 - 특정 주말/공휴일에 이용량 급감 패턴 존재
 
 ## 시연 영상
-https://github.com/keumbyeol/Bigdata/집에 보내주세요_시연.mp4
+https://github.com/keumbyeol/Bigdata/집에보내주세요_시연.mp4
 
