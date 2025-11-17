@@ -56,7 +56,7 @@
 - 특정 주말/공휴일에 이용량 급감 패턴 존재
 
 ## 시연 영상
-<video src="https://github.com/keumbyeol/Bigdata/raw/main/simulation.mp4" 
+<video src="https://github.com/keumbyeol/Bigdata/blob/main/simulation.mp4" 
        controls="controls" 
        width="100%">
 </video>
